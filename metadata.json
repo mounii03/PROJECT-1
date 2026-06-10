@@ -1,0 +1,6 @@
+{
+  "name": "Desserts-Only Evening Café",
+  "description": "Elegant luxury dessert, artisan pastry, and specialty coffee lounge experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
